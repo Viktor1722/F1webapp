@@ -9,4 +9,4 @@ This project is dedicated to providing Formula 1 enthusiasts with detailed analy
 - **Fastest Laps:** Discover which drivers achieved the fastest laps during each event.
 - **Interactive Telemetry Viewer:** Follow your favorite drivers' telemetry data as they navigate the track, with options to switch between various camera angles for a dynamic perspective.
 
-#2025 stats do not work
+# 2025 stats do not work
